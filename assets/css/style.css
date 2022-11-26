@@ -67,3 +67,10 @@ a {
   text-decoration: none;
   color: var(--Grayish-blue);
 }
+
+@media only screen and (max-width: 600px) {
+  .attribution {
+    font-size: 0.9em;
+    height: 10vh;
+  }
+}
