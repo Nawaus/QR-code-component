@@ -70,7 +70,7 @@ a {
 
 @media only screen and (max-width: 600px) {
   .attribution {
-    font-size: 0.9em;
+    font-size: 0.8em;
     height: 10vh;
   }
 }
